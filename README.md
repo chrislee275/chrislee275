@@ -18,6 +18,10 @@ My current focus includes:
 
 A mobile-first interactive story built with React and TypeScript, using fictional perspectives, reader-controlled pacing and downloadable recap cards.
 
+### [AI Job Search Assistant](https://github.com/chrislee275/ai-job-search)
+
+A Codex skill for reviewing job descriptions, preparing applications and drafting recruiter replies, with sample data and manual review before use.
+
 ## Earlier work
 
 ### [Intelligence Eye — Android Accessibility Assistant](https://github.com/chrislee275/intelligence-eye-fyp)
