@@ -1,16 +1,31 @@
-## Hi there 👋
+# Lee Ruo Yee
 
-<!--
-**chrislee275/chrislee275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web & Marketing Technology Specialist**
 
-Here are some ideas to get you started:
+I work across web, CMS and ecommerce delivery, with analytics, SEO and AI-assisted workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus includes:
+
+- **Web & CMS** — WordPress, Shopify, Sitefinity and frontend implementation
+- **Ecommerce** — storefront updates, product content and multi-platform operations
+- **Measurement** — GA4, GTM, tracking QA and reporting
+- **Search** — technical and content SEO, structured website content
+- **Workflow automation** — repeatable web and ecommerce processes, integrations and AI-assisted workflows
+
+## Selected work
+
+### [Small Talk Wrapped](https://github.com/chrislee275/small-talk-wrapped)
+
+A mobile-first interactive story built with React and TypeScript, using fictional perspectives, reader-controlled pacing and downloadable recap cards.
+
+## Earlier work
+
+### [Intelligence Eye — Android Accessibility Assistant](https://github.com/chrislee275/intelligence-eye-fyp)
+
+**Final Year Project · 2020**
+
+An Android accessibility prototype combining environmental light detection, spoken object recognition, vibration feedback and gesture-based interaction.
+
+## Links
+
+[Portfolio](https://leeruoyee.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/leeruoyee/)
